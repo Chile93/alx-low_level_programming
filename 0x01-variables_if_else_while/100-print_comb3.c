@@ -22,7 +22,7 @@ int main(void)
 
 		{
 
-			if (m>n)
+			if (m > n)
 
 			{
 				putchar(n);
